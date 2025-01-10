@@ -13,10 +13,10 @@ for an activity.
 * Time in Minutes - Should be an integer value
 * Activity_name - Can be anything, recommend using a single string
 * Tag (Optional) - Can be "Longterm" or "Priority". 
-* * Longterm means the activity will be in your plan for its full duration
+  * Longterm means the activity will be in your plan for its full duration
 without any breaks. For example, if you say "90 - Reading - Longterm", your plan will have you Reading for an 90-minute period
 without breaks. 
-* * Priority means you should prioritize doing this task early in the day
+  * Priority means you should prioritize doing this task early in the day
 
 All of the information above should be separate with a `-` and everything should be separated with a single space. 
 If this is not followed, the program will not work correctly.
